@@ -1,7 +1,7 @@
 # PRODIGY_DS_01
 
 ## Task-01: Population Distribution Analysis
-##Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+## Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 This project aims to analyze and visualize the distribution of population data for different countries over multiple years using bar charts and histograms. The dataset utilized contains information about the population of various countries over several years.
 
 ### Dataset
